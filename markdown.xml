@@ -1,0 +1,5 @@
+<application>
+  <component name="MarkdownApplicationSettings">
+    <MarkdownCssSettings TextEnabled="true" StylesheetText="hr {&#10;    display: block;&#10;}" />
+  </component>
+</application>

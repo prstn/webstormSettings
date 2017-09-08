@@ -1,0 +1,14 @@
+<templateSet group="Zen HTML">
+  <template name="av" value="&lt;a href=&quot;javascript:void(0)&quot;&gt;$END$&lt;/a&gt;" description="&lt;a href=&quot;javascript:void(0)&quot;&gt;...&lt;/a&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="JSP" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="void" value="javascript:void(0)" description="javascript:void(0)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

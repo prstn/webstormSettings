@@ -1,0 +1,11 @@
+<templateSet group="Angular">
+  <template name="a-a" value="&lt;a [routerLink]=&quot;$1$&quot;&gt;$2$&lt;/a&gt;" description="&lt;a &gt; with angular extras" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

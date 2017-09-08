@@ -1,0 +1,11 @@
+<templateSet group="Brandkit Components">
+  <template name="inlinealert" value="&lt;div class=&quot;alert inline-alert alert-info&quot; role=&quot;alert&quot;&gt;&#10;  &lt;span class=&quot;inline-alert-content&quot;&gt;&#10;    &lt;strong class=&quot;inline-alert-title&quot;&gt;&#10;      &lt;i class=&quot;ico ico-info-circle-full&quot;&gt;&lt;/i&gt;&#10;      $VAR0$&#10;    &lt;/strong&gt;&#10;    &lt;span class=&quot;inline-alert-message&quot;&gt;&#10;      $VAR1$&#10;    &lt;/span&gt;&#10;  &lt;/span&gt;&#10;  &lt;div class=&quot;alert-actions&quot;&gt;&#10;    &lt;button class=&quot;btn btn-sm btn-link secondary-alert-action&quot;&gt;&#10;      $VAR2$&#10;    &lt;/button&gt;&#10;    &lt;button class=&quot;btn btn-sm primary-alert-action&quot;&gt;&#10;      $VAR3$&#10;    &lt;/button&gt;&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="inline alerts" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
