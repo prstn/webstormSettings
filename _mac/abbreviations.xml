@@ -2,6 +2,9 @@
   <component name="AbbreviationManager">
     <abbreviations>
       <action id="ShowUmlDiagram" />
+      <action id="MoveTabRight">
+        <abbreviation name="mr" />
+      </action>
     </abbreviations>
   </component>
 </application>
