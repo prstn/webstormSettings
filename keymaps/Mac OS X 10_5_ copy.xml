@@ -18,6 +18,11 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="RecentChangedFiles" />
   <action id="ResizeToolWindowRight" />
   <action id="SaveDocument">
