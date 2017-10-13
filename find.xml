@@ -6,10 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>.js</mask>
-      <mask>*.j</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>h</mask>
       <mask>ht</mask>
       <mask>htm</mask>
@@ -36,6 +32,10 @@
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>c</mask>
+      <mask>ctio</mask>
+      <mask>ction</mask>
+      <mask>ctions</mask>
     </recentFileMasks>
   </component>
 </application>
