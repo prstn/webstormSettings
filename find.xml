@@ -2,38 +2,40 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>h</mask>
-      <mask>ht</mask>
-      <mask>htm</mask>
-      <mask>html</mask>
-      <mask>s</mask>
-      <mask>sc</mask>
-      <mask>scs</mask>
-      <mask>scss</mask>
-      <mask>*scss</mask>
-      <mask>le</mask>
-      <mask>les</mask>
-      <mask>less</mask>
-      <mask>*less</mask>
-      <mask>*.less</mask>
-      <mask>*[!]</mask>
-      <mask>*[]</mask>
-      <mask>*[V]</mask>
-      <mask>*[V</mask>
-      <mask>*[</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.scss</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>c</mask>
       <mask>ctio</mask>
       <mask>ction</mask>
       <mask>ctions</mask>
+      <mask>imc.</mask>
+      <mask>imc</mask>
+      <mask>im</mask>
+      <mask>i</mask>
+      <mask>.</mask>
+      <mask>.in</mask>
+      <mask>.inter</mask>
+      <mask>.intern</mask>
+      <mask>.internal</mask>
+      <mask>.internal.</mask>
+      <mask>.internal.t</mask>
+      <mask>.internal.tpl/</mask>
+      <mask>.internal.tpl</mask>
+      <mask>.internal.tpl.</mask>
+      <mask>.internal.tpl.h</mask>
+      <mask>.internal.tpl.ht</mask>
+      <mask>.internal.tpl.html</mask>
+      <mask>.html</mask>
+      <mask>*.html</mask>
+      <mask>*inte.html</mask>
+      <mask>*inter.html</mask>
+      <mask>*interna.html</mask>
+      <mask>*internal.html</mask>
+      <mask>*internal..html</mask>
+      <mask>*internal.t.html</mask>
+      <mask>*internal.tpl.html</mask>
     </recentFileMasks>
   </component>
 </application>
