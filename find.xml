@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>c</mask>
-      <mask>ctio</mask>
       <mask>ction</mask>
       <mask>ctions</mask>
       <mask>imc.</mask>
@@ -34,6 +32,8 @@
       <mask>*internal..html</mask>
       <mask>*internal.t.html</mask>
       <mask>*internal.tpl.html</mask>
+      <mask>ra</mask>
+      <mask>r</mask>
     </recentFileMasks>
   </component>
 </application>
