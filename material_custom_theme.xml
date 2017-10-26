@@ -5,13 +5,14 @@
     <option name="highlightColor" value="282a36" />
     <option name="secondBorderColor" value="282a36" />
     <option name="tableSelectedColor" value="282a36" />
-    <option name="contrastColor" value="1e272c" />
+    <option name="contrastColor" value="282a36" />
+    <option name="disabledColor" value="6272a4" />
     <option name="secondaryBackgroundColor" value="f1fa8c" />
     <option name="caretColor" value="f1fa8c" />
     <option name="inactiveColor" value="282a36" />
     <option name="selectionForegroundColor" value="f8f8f2" />
     <option name="selectionBackgroundColor" value="44475a" />
-    <option name="textColor" value="607d8b" />
+    <option name="textColor" value="6272a4" />
     <option name="foregroundColor" value="f8f8f2" />
     <option name="backgroundColor" value="282a36" />
   </component>
