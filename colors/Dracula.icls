@@ -13,9 +13,11 @@
     <option name="GUTTER_BACKGROUND" value="282a36" />
     <option name="INDENT_GUIDE" value="303240" />
     <option name="LINE_NUMBERS_COLOR" value="393c4d" />
+    <option name="METHOD_SEPARATORS_COLOR" value="282a36" />
     <option name="RIGHT_MARGIN_COLOR" value="282a36" />
     <option name="SELECTION_BACKGROUND" value="393c4d" />
     <option name="TEARLINE_COLOR" value="303240" />
+    <option name="WHITESPACES" value="393c4d" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
