@@ -4,7 +4,7 @@
     <property name="created">2017-08-29T16:34:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2017-08-29T16:48:27</property>
+    <property name="modified">2017-10-27T10:03:19</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -15,6 +15,7 @@
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
+    <option name="ANNOTATIONS_COLOR" value="282a36" />
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
     <option name="GUTTER_BACKGROUND" value="282a36" />
@@ -25,6 +26,11 @@
     <option name="SELECTION_FOREGROUND" value="44475a" />
     <option name="SEPARATOR_BELOW_COLOR" value="393c4d" />
     <option name="TEARLINE_COLOR" value="393c4d" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="bd93f9" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="9f7dd1" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="886bb3" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="6b548c" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="4e3d66" />
     <option name="WHITESPACES" value="393c4d" />
   </colors>
   <attributes>
