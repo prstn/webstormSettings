@@ -1,6 +1,9 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
@@ -568,8 +571,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="434659" />
-        <option name="EFFECT_COLOR" value="434659" />
+        <option name="EFFECT_COLOR" value="8fe9fc" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>

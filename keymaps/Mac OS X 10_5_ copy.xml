@@ -15,6 +15,9 @@
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
