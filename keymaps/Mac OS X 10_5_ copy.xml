@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateSonarLintToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
