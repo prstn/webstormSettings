@@ -20,7 +20,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="pri-col" value="&lt;div class=&quot;primary-colum&quot;&gt;&#10;    &lt;div class=&quot;primary-column-text&quot;&gt;$1$&lt;/div&gt;&#10;    &lt;div class=&quot;primary-column-menu&quot;&gt;&#10;        $2$&#10;    &lt;/div&gt;&#10;&lt;/div&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="pri-col" value="&lt;div class=&quot;primary-colum&quot;&gt;&#10;    &lt;div class=&quot;primary-column-text&quot;&gt;$1$&lt;/div&gt;&#10;    &lt;div class=&quot;primary-column-menu&quot;&gt;&#10;        $2$&#10;    &lt;/div&gt;&#10;&lt;/div&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
