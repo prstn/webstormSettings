@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'armor-core-brandkit'" />
-    <option name="defaultScopeName" value="Project 'armor-core-brandkit'" />
-    <option name="SEARCH_SCOPE" value="Project 'armor-core-brandkit'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <recentFileMasks>
       <mask>ction</mask>
       <mask>ctions</mask>
