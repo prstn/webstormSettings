@@ -4,7 +4,7 @@
     <property name="created">2017-08-29T16:34:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2017-11-22T15:46:04</property>
+    <property name="modified">2017-11-28T09:54:29</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -17,7 +17,7 @@
   <colors>
     <option name="ANNOTATIONS_COLOR" value="282a36" />
     <option name="CARET_COLOR" value="cccccc" />
-    <option name="CARET_ROW_COLOR" value="44475a" />
+    <option name="CARET_ROW_COLOR" value="282a36" />
     <option name="GUTTER_BACKGROUND" value="282a36" />
     <option name="INDENT_GUIDE" value="393c4d" />
     <option name="LINE_NUMBERS_COLOR" value="666879" />
