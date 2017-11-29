@@ -2,8 +2,8 @@
   <component name="MaterialCustomThemeConfig">
     <option name="treeSelectionColor" value="44475a" />
     <option name="buttonHighlightColor" value="282a36" />
-    <option name="highlightColor" value="282a36" />
-    <option name="secondBorderColor" value="282a36" />
+    <option name="highlightColor" value="8fe9fc" />
+    <option name="secondBorderColor" value="bd93f9" />
     <option name="tableSelectedColor" value="21222c" />
     <option name="contrastColor" value="21222c" />
     <option name="disabledColor" value="6272a4" />

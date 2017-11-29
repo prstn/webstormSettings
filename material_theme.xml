@@ -9,5 +9,6 @@
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="35" />
     <option name="defaultBackground" value="" />
+    <option name="accentScrollbars" value="false" />
   </component>
 </application>
