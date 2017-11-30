@@ -8,7 +8,9 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
-    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,btf-markdown" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,btf-markdown,code-example,markdown" />
+    <option name="HTML_KEEP_WHITESPACES_INSIDE" value="span,pre,textarea,code-example,p" />
+    <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title,h1,h2,h3,h4,h5,h6,p,code-example" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
@@ -20,6 +22,7 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="100" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
