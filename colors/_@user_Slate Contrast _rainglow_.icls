@@ -4,7 +4,7 @@
     <property name="created">2018-01-10T09:35:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-01-10T12:55:59</property>
+    <property name="modified">2018-01-10T13:55:53</property>
     <property name="originalScheme">Slate Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -3404,7 +3404,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="9090a7" />
+        <option name="FOREGROUND" value="8be9fd" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
