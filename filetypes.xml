@@ -7,6 +7,7 @@
       <mapping pattern="layoutWithTitle.js" type="PLAIN_TEXT" />
       <mapping ext="tmtheme" type="PLAIN_TEXT" />
       <mapping ext="spec" type="TypeScript" />
+      <mapping ext="service" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
