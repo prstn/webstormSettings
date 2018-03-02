@@ -1,0 +1,14 @@
+<templateSet group="Bootstrap 4">
+  <template name="bs-in" value="&lt;input type=&quot;$type$&quot; name=&quot;$name$&quot; id=&quot;$id$&quot; class=&quot;form-control&quot; value=&quot;$value$&quot; $required$ title=&quot;&quot;&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="required" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

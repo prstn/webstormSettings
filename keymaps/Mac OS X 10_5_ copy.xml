@@ -5,6 +5,13 @@
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
@@ -40,6 +47,7 @@
   <action id="ShowColorPicker">
     <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta c" />
   </action>
+  <action id="ShowNavBar" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
