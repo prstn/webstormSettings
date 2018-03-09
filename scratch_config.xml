@@ -326,9 +326,11 @@
         <option value="scratch_11.ts" />
         <option value="scratch_88.json" />
         <option value="scratch_89.json" />
+        <option value="scratch_90.json" />
+        <option value="scratch_91.json" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_45.js" />
+    <option name="lastOpenedScratch" value="scratch_90.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
