@@ -3,8 +3,10 @@
     <extensionMap>
       <mapping pattern=".zshrc" type="Bash" />
       <mapping pattern=".jsdocrc" type="JSON" />
+      <mapping ext="apib" type="Markdown" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="layoutWithTitle.js" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="tmtheme" type="PLAIN_TEXT" />
       <mapping ext="spec" type="TypeScript" />
       <mapping ext="service" type="TypeScript" />

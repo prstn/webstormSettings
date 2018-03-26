@@ -4,12 +4,13 @@
     <property name="created">2017-03-10T14:40:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-07-20T13:43:58</property>
+    <property name="modified">2018-03-21T14:10:05</property>
     <property name="originalScheme">Dracula copy</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.3" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="EDITOR_FONT_NAME" value="Operator Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
@@ -26,21 +27,21 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="8be9fd" />
     <option name="HTML_TAG_TREE_LEVEL4" value="bd93f9" />
     <option name="HTML_TAG_TREE_LEVEL5" value="ff79c6" />
-    <option name="INDENT_GUIDE" value="282a36" />
-    <option name="LINE_NUMBERS_COLOR" value="3e465c" />
+    <option name="INDENT_GUIDE" value="553e5e" />
+    <option name="LINE_NUMBERS_COLOR" value="553e5e" />
     <option name="METHOD_SEPARATORS_COLOR" value="25252f" />
     <option name="MODIFIED_LINES_COLOR" value="8be9fd" />
     <option name="NOTIFICATION_BACKGROUND" value="313546" />
     <option name="RIGHT_MARGIN_COLOR" value="25252f" />
     <option name="SELECTED_TEARLINE_COLOR" value="c9abf8" />
     <option name="SELECTION_BACKGROUND" value="d101b" />
-    <option name="TEARLINE_COLOR" value="313546" />
+    <option name="TEARLINE_COLOR" value="553e5e" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="bd93f9" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="303240" />
-    <option name="WHITESPACES" value="3c4354" />
+    <option name="WHITESPACES" value="553e5e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="8be9fd" />
   </colors>
   <attributes>
@@ -561,6 +562,18 @@
     <option name="KOTLIN_TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
+      </value>
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="4df076" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="ed4f4f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MAKO.SUBSTITUTION">
