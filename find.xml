@@ -3,37 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>ction</mask>
-      <mask>ctions</mask>
-      <mask>imc.</mask>
-      <mask>imc</mask>
-      <mask>im</mask>
-      <mask>i</mask>
-      <mask>.</mask>
-      <mask>.in</mask>
-      <mask>.inter</mask>
-      <mask>.intern</mask>
-      <mask>.internal</mask>
-      <mask>.internal.</mask>
-      <mask>.internal.t</mask>
-      <mask>.internal.tpl/</mask>
-      <mask>.internal.tpl</mask>
-      <mask>.internal.tpl.</mask>
-      <mask>.internal.tpl.h</mask>
-      <mask>.internal.tpl.ht</mask>
-      <mask>.internal.tpl.html</mask>
-      <mask>.html</mask>
-      <mask>*.html</mask>
-      <mask>*inte.html</mask>
-      <mask>*inter.html</mask>
-      <mask>*interna.html</mask>
-      <mask>*internal.html</mask>
-      <mask>*internal..html</mask>
-      <mask>*internal.t.html</mask>
-      <mask>*internal.tpl.html</mask>
-      <mask>ra</mask>
-      <mask>r</mask>
-    </recentFileMasks>
   </component>
 </application>
