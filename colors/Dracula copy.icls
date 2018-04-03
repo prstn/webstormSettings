@@ -1,6 +1,9 @@
 <scheme name="Dracula copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
@@ -1268,8 +1271,10 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="f7f7fb" />
+        <option name="BACKGROUND" value="44475a" />
+        <option name="EFFECT_COLOR" value="515467" />
         <option name="ERROR_STRIPE_COLOR" value="44475a" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -3364,9 +3369,7 @@
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="44475a" />
-      </value>
+      <value />
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
@@ -3794,9 +3797,7 @@
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="44475a" />
-      </value>
+      <value />
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
