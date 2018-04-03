@@ -4,7 +4,7 @@
     <property name="created">2018-03-07T14:50:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-03-28T13:47:11</property>
+    <property name="modified">2018-04-02T17:57:47</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -12,10 +12,25 @@
   <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
-    <option name="FILESTATUS_COPIED" value="629755" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_ADDED" value="ebff87" />
+    <option name="FILESTATUS_COPIED" value="ebff87" />
+    <option name="FILESTATUS_DELETED" value="4d4f68" />
+    <option name="FILESTATUS_HIJACKED" value="f769" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="4d4f68" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="626483" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f769" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f769" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f769" />
+    <option name="FILESTATUS_MERGED" value="b45bcf" />
+    <option name="FILESTATUS_MODIFIED" value="62d6e8" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="62d6e8" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="62d6e8" />
+    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
+    <option name="FILESTATUS_SUPPRESSED" value="4d4f68" />
+    <option name="FILESTATUS_SWITCHED" value="b45bcf" />
+    <option name="FILESTATUS_UNKNOWN" value="b45bcf" />
+    <option name="FILESTATUS_addedOutside" value="ebff87" />
+    <option name="FILESTATUS_changelistConflict" value="f769" />
+    <option name="FILESTATUS_modifiedOutside" value="ebff87" />
   </colors>
 </scheme>
