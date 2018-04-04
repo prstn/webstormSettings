@@ -57,6 +57,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="62d6e8" />
     <option name="SELECTION_BACKGROUND" value="44475a" />
     <option name="SELECTION_FOREGROUND" value="f7f7fb" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="44475a" />
     <option name="TEARLINE_COLOR" value="44475a" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="44475a" />
@@ -64,6 +65,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="44475a" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="8be9fd" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="ffb86c" />
+    <option name="VISUAL_INDENT_GUIDE" value="44475a" />
     <option name="WHITESPACES" value="44475a" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="44475a" />
   </colors>
@@ -179,25 +181,20 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="f7f7fb" />
-        <option name="BACKGROUND" value="44475a" />
+        <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="62d6e8" />
-        <option name="BACKGROUND" value="44475a" />
+        <option name="FOREGROUND" value="f0f0f0" />
+        <option name="BACKGROUND" value="2f333d" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
-      <value>
-        <option name="FOREGROUND" value="f7f7fb" />
-        <option name="BACKGROUND" value="bd93f9" />
-      </value>
+      <value />
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="44475a" />
         <option name="BACKGROUND" value="44475a" />
       </value>
     </option>
