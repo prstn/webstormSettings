@@ -34,5 +34,6 @@
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
 </application>
