@@ -4,6 +4,7 @@
       <mapping pattern=".zshrc" type="Bash" />
       <mapping pattern=".jsdocrc" type="JSON" />
       <mapping ext="apib" type="Markdown" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="layoutWithTitle.js" type="PLAIN_TEXT" />
