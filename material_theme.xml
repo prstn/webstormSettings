@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.0.1" />
+    <option name="version" value="2.4.0.3-2018.1" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightThickness" value="1" />
@@ -13,5 +13,6 @@
     <option name="tabOpacity" value="0" />
     <option name="upperCaseButtons" value="false" />
     <option name="accentTitleBarColor" value="80cbc4" />
+    <option name="userId" value="-10ca19f2:163f0dc27a9:-7fff" />
   </component>
 </application>
