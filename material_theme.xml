@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.0.3-2018.2" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="version" value="2.4.2-2018.1" />
+    <option name="selectedTheme" value="EXTERNAL" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightThickness" value="1" />
     <option name="isContrastMode" value="true" />
@@ -13,6 +13,8 @@
     <option name="tabOpacity" value="0" />
     <option name="upperCaseButtons" value="false" />
     <option name="accentTitleBarColor" value="80cbc4" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="fileStatusColorsEnabled" value="true" />
     <option name="userId" value="-10ca19f2:163f0dc27a9:-7fff" />
     <option name="allowDataCollection" value="true" />
   </component>
