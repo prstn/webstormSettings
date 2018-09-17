@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".zshrc" type="Bash" />
       <mapping pattern=".jsdocrc" type="JSON" />
+      <mapping pattern="validate-coverage" type="JavaScript" />
       <mapping ext="apib" type="Markdown" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
